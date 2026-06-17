@@ -1,0 +1,17 @@
+{
+  "name": "2ff-fisioterapia",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Landing page da 2FF Fisioterapia e Funcional",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.0",
+    "tailwindcss": "^4.1.0",
+    "vite": "^6.0.0"
+  }
+}
